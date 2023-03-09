@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yildirimyigit
 - 👀 I’m interested in Robotics and AI
 - 🌱 I’m currently learning ROS2
-- 📫 Reach me from https://cmpe.boun.edu.tr/~yigit
+- 📫 Reach me from http://robot.cmpe.boun.edu.tr/~yigit/
 
 <!---
 yildirimyigit/yildirimyigit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
