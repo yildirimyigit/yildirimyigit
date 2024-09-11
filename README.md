@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yildirimyigit
 - 👀 I’m interested in Robotics and AI
-- 🌱 I’m currently learning ROS 2
 - 📫 Reach me from https://www.cmpe.boun.edu.tr/~yigit.yildirim/
 
 <!---
